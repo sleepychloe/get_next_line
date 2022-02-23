@@ -1,3 +1,3 @@
 # GetNextLine
 
-success 125/100
+Success 125/100
