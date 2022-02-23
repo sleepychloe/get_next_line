@@ -1,4 +1,4 @@
-# GetNextLine
+# get_next_line
 
 Mandatory part + Bonus part
 
